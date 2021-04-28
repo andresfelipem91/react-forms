@@ -1,0 +1,11 @@
+.marco-container{
+    width: 120%;
+    min-height: 900px;
+    border: 1px solid coral;
+    padding-top: 50px;
+}
+.centrar{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}

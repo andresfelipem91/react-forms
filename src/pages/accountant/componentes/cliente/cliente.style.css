@@ -1,0 +1,25 @@
+.cliente-container{
+    width: 97%;
+    min-height: 40px;
+    padding-top: 10px;
+    
+   
+    border: 3px solid  chartreuse
+}
+.inf-cliente{
+    padding-left: 35px;
+    margin-left: 40px;
+   
+
+}
+.telefono{
+    padding-left: 100px;
+}
+.departamento{
+    padding-left: 30px;
+}
+.column{
+    padding-left: 23px;
+    margin-right: 10px;
+    color: brown;
+}
